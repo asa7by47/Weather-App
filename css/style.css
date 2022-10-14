@@ -1,0 +1,99 @@
+.bg-myColor{
+    background-color: rgb(30, 32, 43);
+}
+
+input:focus{
+    background-color: #262936 !important;
+    border: unset !important;
+    color: white;
+}
+.bg-anotherColor{
+    background-color: #262936;
+}
+sub{
+    position: absolute;
+    top: -80%;
+    right: 50px;
+}
+.nav-link:hover{
+    border: 2px solid transparent;
+    border-radius: 30px;
+    color: #009ad8 !important;
+    border-color: #009ad8;
+
+}
+input[type="text"]{
+    color: white !important;
+}
+.active{
+    border: 2px solid transparent;
+    border-radius: 30px;
+    color: #009ad8 !important;
+    border-color: #009ad8;
+}
+.bg-home{
+    background-color: rgb(42, 45, 61);
+}
+.bg-input{
+    background-color: rgb(30, 32, 43);
+    border: unset;
+    padding: 20px 50px 20px 20px;
+    color: white;
+    border-radius: 30px;
+}
+.bg-columColor{
+    background-color: #323544;
+}
+.today-date{
+    background-color: #2D303D;
+    color: white;
+}
+.weather-content{
+    background-color: #323544;
+}
+.padding{
+    padding: 4rem 2.5rem;
+}
+.bgColor{
+    background-color: #262936;
+}
+input[type="email"]
+{
+    padding: 15px 20px  !important;
+    background: #262936 !important;
+    color: white !important;
+}
+.bg-footer{
+    background-color: rgb(30, 32, 43);
+}
+.subscribe{
+    border: none;
+    background: #009ad8;
+    padding: 10px 20px;
+    border-radius: 30px;
+    color: white;
+    position: absolute;
+    top: -33%;
+    right: 0.2%;
+    transform: translate(0 , 50%);
+}
+.icon-bg{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    background-color: #2A2D3D;
+    border-radius: 50%;
+    color: #009ad8;
+    transition: .5s all;
+}
+.icon-bg:hover{
+    background-color: #009ad8;
+    color: white;
+    cursor: pointer;
+}
+.copyRight span{
+    color: #009ad8;
+}
